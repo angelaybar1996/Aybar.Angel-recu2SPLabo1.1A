@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1627510917 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"parser.h"
+
+1627510935 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\controller.h
+	"LinkedList.h"
+	"Bicicletas.h"
+	"utn.h"
+
+1627511050 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\linkedlist.h
+
+1627089918 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\employee.h
+
+1625953601 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\utn.h
+
+1627505191 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\parser.h
+	"Controller.h"
+
+1627361131 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1627511021 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Bicicletas.h"
+	"parser.h"
+	"utn.h"
+
+1627511044 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1627505653 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+
+1627468013 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1627475098 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\pais.h
+
+1627475872 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pais.h"
+
+1627510883 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\bicicletas.h
+
+1627511097 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bicicletas.h"
+
+1627511097 source:c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bicicletas.h"
+
+1627525343 c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\bicicletas.h
+
+1627518982 source:c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"parser.h"
+
+1627519389 c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\controller.h
+	"LinkedList.h"
+	"Bicicletas.h"
+	"utn.h"
+
+1627513718 c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\linkedlist.h
+
+1625953601 c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\utn.h
+
+1627505191 c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\parser.h
+	"Controller.h"
+
+1627514128 source:c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Bicicletas.h"
+	"parser.h"
+	"utn.h"
+
+1627505653 source:c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+
+1627468013 source:c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1627513713 source:c:\users\ryzen 20\desktop\repositorios clonados\aybar.angel-rsplaboi.1a\rsplabo\recusegundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1628110112 source:c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1628110121 c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\linkedlist.h
+
+1628110454 source:c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Bicicletas.h"
+	"parser.h"
+	"utn.h"
+
+1628110312 c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\controller.h
+	"LinkedList.h"
+	"Bicicletas.h"
+	"utn.h"
+
+1628110157 c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\bicicletas.h
+
+1625953601 c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\utn.h
+
+1627505191 c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\parser.h
+	"Controller.h"
+
+1627505653 source:c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+
+1627468013 source:c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1628110230 source:c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Bicicletas.h"
+
+1628110420 source:c:\users\ryzen 20\desktop\bicicletas recuperatorio\recusegundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+	"parser.h"
+
